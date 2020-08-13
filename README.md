@@ -2,12 +2,12 @@
 
 I work as a Data Scientist / Machine Learning Engineer at Salesforce, and I´m based out of San Francisco, California.
 
-Since 2007 I've been living and breathing data and creating smart data products. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design, scale & code. ✨😍
+Since 2007, I've been living and breathing data and creating smart data products. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design, scale & code. ✨😍
 
 ### What I'm currently focusing on 👨‍💻
 
-Currently improving my Machine Learning skills especially around Recommendation Systems using Deep Neural Networks using Tensorflow, Natural Language Processing for Entity detection and document classification <br />
-<br>
+Currently improving my Machine Learning skills especially around Recommendation Systems and Natural Language Processing <br />
+<br />
 
 ### Find me elsewhere 🌎
 
